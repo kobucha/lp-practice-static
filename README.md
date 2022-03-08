@@ -8,3 +8,8 @@
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
 https://github.com/kobucha/lp-practice-static/projects/1
+
+公開鍵認証でSSH接続できるようになりました。
+
+もし家のルータ再起動などでグローバルIPアドレスが変わった場合は、以下のコントロールパネルより、もう一度許可し直してください。
+https://cp.xrea.com/site/tools/
